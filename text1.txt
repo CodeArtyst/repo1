@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this is my text1 file yes
-=======
-this is my text1 file none
->>>>>>> b53b0854b3e16b4bc030726842f86daa10cea7e5
+
+
